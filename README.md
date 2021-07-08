@@ -1,2 +1,2 @@
-# lvke_itemy
+# lvkees_itemy
 Skrypt na itemy *Walizki z bronią, paczka kokainy itd.*
